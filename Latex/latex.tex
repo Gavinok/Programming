@@ -1,0 +1,59 @@
+\documentclass{article}
+
+\begin{document}
+
+\author {Gavin Jaeger-freeborn}
+
+\title{My First Latex Document}
+
+\date{}
+\maketitle
+\section{Quick tips} 
+The date parameter is optional.
+
+If you want to start a new paragraph simply hit enter twice.
+
+\subsection{Subsection}
+A subsection is declared using subsection
+
+Normal text. \textbf{Bold text} \textit{Italics text} \emph{emphatic text}
+
+\underline{Underlined text}
+
+
+\section{quotes in latex}
+
+Here is where things get weird
+
+
+
+"quotes don't work like they should"
+
+``you have to use 2 graves and 2 apostrophes''
+
+\section{Lists}
+\subsection{Enumerate}
+\begin{enumerate}
+\item use the term begin enumerate for ordered list
+\item they automatically number themselves
+\item don't forget to use end to stop the list
+\end{enumerate}
+\subsection{Itemize}
+\begin{itemize}
+\item for an ordered list just use itemize instead of enumerate
+\item this uses bullets instead
+	\begin{itemize}
+	\item to make a sub list of either type just begin a new list and end it
+		inside.
+	\end{itemize}
+\item don't forget to end itemize
+\end{itemize}
+
+\subsection{Labeled Sections and References}
+Refer to example \ref{ExampleLable}
+
+You will have to compile twice
+
+\section{example \label{ExampleLable}}
+
+\end{document}

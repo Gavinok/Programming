@@ -1,0 +1,23 @@
+15
+Do other products exist? 
+Is your target customer used to paying a lot?
+Do you think your version is the best?
+Are most similar products sourced from china?
+Is this product important?
+Do you think your product is lower quality?
+Does your company already have a good reputation?
+Charge what you think is reasonable for your customer while still being above 2.5 times the cost of goods sold.
+Charge what you think is reasonable for your customer
+Charge what you think is reasonable for your customer while still being above 2.5 times the cost of goods sold.
+Charge as much as you feel like.
+Sell for similar price to the competition.12Charge what you think is reasonable for your customer
+Sell for less than competition while still above 2.5 times the cost of goods sold.
+Sell for similar price to the competition.
+Sell for higher than the competitors.
+3 7 8
+4 9 10
+5 11 12
+6 13 14
+1 3 4
+2 5 6
+0 1 2
